@@ -23,6 +23,7 @@
 
 body {
     margin: 33px;
+    font-size: 13px
 }
 
 h1 {
@@ -58,4 +59,8 @@ label {
 
 .field, .actions {
     margin-bottom: 10px;
+}
+
+a {
+    color: #000;
 }
